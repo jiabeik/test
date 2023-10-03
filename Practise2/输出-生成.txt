@@ -1,0 +1,6 @@
+﻿已启动生成...
+1>------ 已启动生成: 项目: Practise2, 配置: Debug x64 ------
+1>Practise2.c
+1>Practise2.vcxproj -> D:\jiabeik\vsFile\Practise2\x64\Debug\Practise2.exe
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========= 生成 开始于 13:01，并花费了 01.003 秒 ==========
