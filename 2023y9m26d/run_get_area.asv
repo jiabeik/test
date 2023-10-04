@@ -1,0 +1,17 @@
+disp('求解二元一次方程组')
+disp('ax+by+c=0')
+disp('dx+ey+f=0')
+
+
+a = input("a")
+b = input("b")
+c = input("c")
+d = input("d")
+e = input("e")
+f = input("f")
+
+x=(0-c-b*(c*d/a-f)/(e-b*d/a))/a
+y=(c*d/a-f)/(e-b*d/a)
+
+
+
